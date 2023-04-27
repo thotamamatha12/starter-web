@@ -8,9 +8,13 @@ This is the example to show deifferent parts of the git repository and various c
 
 ## Purpose
 
+As stated above, the main purpose is to provide  simple example for git training.  
+
 Sample website with plenty of files for demos
 
 ## Deployment
+
+This is simple  web project 
 
 ## How to Contribute
 
