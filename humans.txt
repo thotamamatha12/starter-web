@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+     Mamatha tmamatha@in.ibm.com  thotamamatha12@gmail.com
 # THANKS
 
     <name>
