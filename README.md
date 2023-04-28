@@ -21,4 +21,4 @@ This is simple  web project
 
 ### Copyright
 
-2023 Git.Training
+2023 Git.Training classes
