@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work together.
-Adding a line for rebasing example, more changes from myfeature branch too. 
-
+Updating emergency fix for stashing.
 ## Introduction
 
 This is the example to show deifferent parts of the git repository and various commansds using a web project.
